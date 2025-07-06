@@ -1,0 +1,177 @@
+
+<doc id="1">
+Habla	hablar	VMIP3S0
+con	con	SP
+el	el	DA
+enfermo	enfermo	NCMS000
+grave	grave	AQ0CS00
+de	de	SP
+trasplantes	trasplante	NCMN000
+.	.	Fp
+
+<doc id="2">
+El	el	DA
+enfermo	enfermo	NCMS000
+grave	grave	AQ0CS00
+habla	hablar	VMIP3S0
+de	de	SP
+trasplantes	trasplante	NCMN000
+.	.	Fp
+
+<doc id="3">
+La	la	DA
+película	película	NCFS000
+fue	ser	VAIP3S0
+nominada	nominar	VMP00SF
+al	al	SP+DA
+Oscar	oscar	NP00000
+.	.	Fp
+
+<doc id="4">
+Luis	luis	NP00000
+Buñuel	buñuel	NP00000
+es	ser	VSIP3S0
+director	director	NCMS000
+español	español	AQ0MS00
+.	.	Fp
+
+<doc id="5">
+El	el	DA
+niño	niño	NCMS000
+corre	correr	VMIP3S0
+en	en	SP
+el	el	DA
+parque	parque	NCMS000
+.	.	Fp
+
+<doc id="6">
+Una	una	DI
+flor	flor	NCFS000
+roja	rojo	AQ0FS00
+decoraba	decorar	VIIIS0S
+la	la	DA
+mesa	mesa	NCFS000
+.	.	Fp
+
+<doc id="7">
+Ella	ella	PP3FS000
+canta	cantar	VMIP3S0
+una	una	DI
+canción	canción	NCFS000
+alegre	alegre	AQ0CS00
+.	.	Fp
+
+<doc id="8">
+Ellos	ellos	PP3MP000
+juegan	jugar	VMIP3P0
+fútbol	fútbol	NCMS000
+cada	cada	DI
+día	día	NCMS000
+.	.	Fp
+
+<doc id="9">
+Hoy	hoy	NCMS000
+es	ser	VSIP3S0
+un	un	DI
+día	día	NCMS000
+especial	especial	AQ0CS00
+.	.	Fp
+
+<doc id="10">
+El	el	DA
+sol	sol	NCMS000
+brilla	brillar	VMIP3S0
+intensamente	intensamente	RG
+en	en	SP
+el	el	DA
+cielo	cielo	NCMS000
+.	.	Fp
+
+<doc id="11">
+Nosotros	nosotros	PP1MP000
+estudiamos	estudiar	VMIP1P0
+procesamiento	procesamiento	NCMS000
+del	del	SP+DA
+lenguaje	lenguaje	NCMS000
+natural	natural	AQ0CS00
+.	.	Fp
+
+<doc id="12">
+Un	un	DI
+gato	gato	NCMS000
+gris	gris	AQ0CS00
+miraba	mirar	VIIIS3S
+por	por	SP
+la	la	DA
+ventana	ventana	NCFS000
+.	.	Fp
+
+<doc id="13">
+El	el	DA
+profesor	profesor	NCMS000
+explicó	explicar	VMIS3S0
+la	la	DA
+tarea	tarea	NCFS000
+.	.	Fp
+
+<doc id="14">
+María	maría	NP00000
+cocinaba	cocinar	VIIIS3S
+un	un	DI
+pastel	pastel	NCMS000
+de	de	SP
+chocolate	chocolate	NCMS000
+.	.	Fp
+
+<doc id="15">
+Ayer	ayer	RG
+llovió	llover	VMIS3S0
+fuertemente	fuertemente	RG
+en	en	SP
+la	la	DA
+ciudad	ciudad	NCFS000
+.	.	Fp
+
+<doc id="16">
+Ellas	ellas	PP3FP000
+estudian	estudiar	VMIP3P0
+arte	arte	NCMS000
+en	en	SP
+la	la	DA
+universidad	universidad	NCFS000
+.	.	Fp
+
+<doc id="17">
+Un	un	DI
+coche	coche	NCMS000
+rojo	rojo	AQ0MS00
+avanza	avanzar	VMIP3S0
+rápido	rápido	RG
+por	por	SP
+la	la	DA
+carretera	carretera	NCFS000
+.	.	Fp
+
+<doc id="18">
+Ella	ella	PP3FS000
+pinta	pintar	VMIP3S0
+cuadros	cuadro	NCMP000
+hermosos	hermoso	AQ0MP00
+.	.	Fp
+
+<doc id="19">
+Ellos	ellos	PP3MP000
+viajan	viajar	VMIP3P0
+a	a	SP
+diferentes	diferente	AQ0MP00
+países	país	NCMP000
+.	.	Fp
+
+<doc id="20">
+La	la	DA
+tarde	tarde	NCFS000
+es	ser	VSIP3S0
+tranquila	tranquilo	AQ0FS00
+y	y	CC
+agradable	agradable	AQ0CS00
+.	.	Fp
