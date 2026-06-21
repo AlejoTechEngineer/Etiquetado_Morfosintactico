@@ -1,3 +1,5 @@
+<div align="center">
+
 # Etiquetador Morfosintáctico (POS Tagger) con HMM
 
 ![NLP](https://img.shields.io/badge/NLP-POS_Tagging-00897B?style=for-the-badge)
@@ -7,6 +9,10 @@
 > POS tagger con Modelo Oculto de Markov implementado desde cero: entrenamiento supervisado y decodificación Viterbi.
 
 ## Descripción
+
+</div>
+
+---
 
 Implementación completa de un etiquetador morfosintáctico (Part-of-Speech Tagger) basado en **Modelos Ocultos de Markov (HMM)** construido desde cero en Python/Jupyter. Incluye estimación de probabilidades de emisión y transición sobre corpus etiquetado, decodificación con el algoritmo de **Viterbi** y evaluación de precisión por categoría gramatical.
 
@@ -35,3 +41,12 @@ Decodificación: Algoritmo de Viterbi en O(N²T)
 
 **Asignatura:** Minería de Información y Análisis — NLP · **Institución:** Ingeniería Informática
 **Autor:** Alejandro De Mendoza — Ingeniero Informático · Especialista en IA
+
+---
+
+## Autor
+
+**Alejandro De Mendoza**  
+Ingeniero Informático · Especialista en IA · Especialista en Ingeniería de Software · Máster en Arquitectura de Software
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlejoTechEngineer-181717?style=for-the-badge&logo=github)](https://github.com/AlejoTechEngineer)
