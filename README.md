@@ -25,16 +25,21 @@ Implementación completa de un etiquetador morfosintáctico (Part-of-Speech Tagg
 | `corpus_etiquetado.txt` | Corpus de entrenamiento y evaluación |
 | `*.pdf` | Informe de resultados y análisis |
 
-## Arquitectura del HMM
+## Arquitectura
 
-```
-Estados ocultos: etiquetas POS (NOUN, VERB, ADJ, ...)
-Observaciones: palabras del texto
-π: probabilidad inicial de cada etiqueta
-A: matriz de transición entre etiquetas
-B: matriz de emisión (P(palabra|etiqueta))
-
-Decodificación: Algoritmo de Viterbi en O(N²T)
+```mermaid
+flowchart TD
+    A[corpus_etiquetado.txt - Corpus de entrenamiento] --> B[Estimar probabilidades de emision y transicion]
+    B --> C[probabilidades_emision.xlsx - P-palabra dado etiqueta]
+    B --> D[probabilidades_transicion.xlsx - P-etiqueta dado etiqueta anterior]
+    C & D --> E[HMM: estados ocultos = etiquetas POS]
+    E --> F{Notebook}
+    F --> G[analizador_HMM_desde_cero_funcional.ipynb - Version base]
+    F --> H[analizador_HMM_desde_cero_funcional_mejorado.ipynb - Con suavizado OOV]
+    G & H --> I[Algoritmo de Viterbi - O-N2 x T]
+    I --> J[viterbi_matrix.xlsx - Matriz de decodificacion]
+    J --> K[scriptmorfo3.py - Script de evaluacion]
+    K --> L[Precision por categoria gramatical]
 ```
 
 ## Contexto académico
